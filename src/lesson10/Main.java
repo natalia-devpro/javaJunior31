@@ -14,7 +14,7 @@ public class Main {
         animals[2] = tiger2;
         animals[3] = monkey2;
 
-        // for each
+        // for each (аналог for)
         for(ZooAnimal animal:animals){
             animal.voice();
         }
